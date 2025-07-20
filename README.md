@@ -20,21 +20,6 @@ This is an open, evolving resource created to:
 - Multilingual models
 - Efficient training (LoRA, quantization, etc.)
 
----
-
-## 🗃️ Folder Structure
-llm-papers/
-├── papers/
-│ ├── foundational/
-│ ├── transformer-architectures/
-│ ├── bengali-nlp/
-│ └── efficient-training/
-├── summaries/
-│ └── [paper-name].md
-├── scripts/
-│ └── (optional) download_tools.py
-└── README.md
-
 
 ---
 
