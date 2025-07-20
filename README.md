@@ -1,7 +1,7 @@
 # Llm-papers
 # 📚 LLM Research Papers Repository
 
-Welcome to this curated repository of research papers, notes, and resources related to building Large Language Models (LLMs), with a focus on applications in the **Bengali language** and **Bangladesh context**.
+Welcome to this curated repository of research papers, notes, and resources related to building Large Language Models (LLMs).
 
 This is an open, evolving resource created to:
 - Help beginners understand LLMs and transformers.
@@ -45,7 +45,7 @@ If you're a student, researcher, or enthusiast — feel free to:
 - Create markdown summaries
 - Share tools/scripts
 
-Let’s build the future of Bengali AI together 🇧🇩✨
+Let's build✨
 
 ---
 
